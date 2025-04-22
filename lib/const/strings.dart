@@ -1,0 +1,35 @@
+const appname = "Rangoli Seller App",
+    login = "Login",
+    logout= "Logout",
+    welcome = "Hi, Welcome to",
+    email = "Email",
+    password = "Password",
+    forgotPassword = "Forgot Password?",
+    passwordHint= "*******",
+    emailHint = "example@gmail.com",
+    anyProblem = "In case of any difficulty, contact administration",
+    dashboard="Dashboard",
+    orders="Orders",
+    products="Products",
+    settings="Settings",
+    popular= "Popular Products",
+    rating= "Rating",
+    totalSales= "Total Sales",
+    unpaid="Unpaid",
+    featured="isFeatured",
+    edit= "Edit",
+    editProfile= "Edit Profile",
+    shopSettings= "Shop Settings",
+    messages= "Messages",
+    save= "Save",
+    name= "Username",
+    confirmPass="Confirm Password",
+    remove="Revmove"
+;
+
+//shop settings strings
+
+const  nameHint = "eg. User Name",
+    shopMobileHint= "eg: 9876543210",
+    mobile= "Shop Mobile",
+    gst= "GSTIN";
